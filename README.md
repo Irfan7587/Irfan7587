@@ -1,5 +1,5 @@
 # Hi, I'm Mohammed Irfan Battegeri ✨  
-**🤖 Data Scientist | 🛰️ Machine Learning Engineer | 🧠 AI Explorer**
+**⚙️ Backend Developer | 🤖 Data Scientist | 🛰️ Machine Learning Engineer | 🧠 AI Explorer**
 
 🏫 **M.S. in Computer Science** @ DePaul University  
 🌍 **Building**: Tableau Dashboards  
